@@ -1,7 +1,7 @@
 # ITRI_UCH_phdw
 
-forcing
-  wind and wind stress plotting
+* forcing
+  ** wind and wind stress plotting
 
 validation
 	cwa in-situ observation
