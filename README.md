@@ -1,7 +1,7 @@
 # ITRI_UCH_phdw
 
 ## forcing 
-- wind and wind stress plotting
+- wind and wind stress
 - magnitude for monsoon
 - curl for basin scale
 
